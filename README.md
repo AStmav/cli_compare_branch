@@ -7,19 +7,21 @@ This command-line utility compares binary package lists of the Sisyphus and p10 
 Before using the utility, make sure you have Python installed on your system.
 
 1. Clone this repository:
+```bash
 git clone https://github.com/AStmav/cli_compare_branch.git
+```
 
-
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+```bash
 cd cli_compare_branch
+```
 
-markdown
-Copy code
+
 3. Install dependencies:
+```bash
 pip install -r requirements.txt
+```
 
-bash
-Copy code
 
 ## Usage
 This will download the package data from the p10 and sisyphus branches, save it in p10.json and sisyphus.json respectively, and then perform the comparison and print the result to the console.
