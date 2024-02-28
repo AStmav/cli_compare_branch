@@ -105,6 +105,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-#python cli.py p10.json sisyphus.json --output comparison_result.json 2
-#python cli.py --output comparison_result.json
-#python cli.py p10.json sisyphus.json скачиваем ветки 1
+
