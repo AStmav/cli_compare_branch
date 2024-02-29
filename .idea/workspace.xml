@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b229aaf5-ddce-4182-9779-84741bac07be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compare_branches.py" beforeDir="false" afterPath="$PROJECT_DIR$/compare_branches.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comparison_result.json" beforeDir="false" afterPath="$PROJECT_DIR$/comparison_result.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p10.json" beforeDir="false" afterPath="$PROJECT_DIR$/p10.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sisyphus.json" beforeDir="false" afterPath="$PROJECT_DIR$/sisyphus.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comparison_result.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

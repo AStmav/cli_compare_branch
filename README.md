@@ -24,11 +24,9 @@ pip install -r requirements.txt
 
 
 ## Usage
-This will download the package data from the p10 and sisyphus branches, save it in p10.json and sisyphus.json respectively, and then perform the comparison and print the result to the console.
+This will download the package data from the p10 and sisyphus branches, save it in p10.json and sisyphus.json respectively, and then perform the comparison and print the result to the console and save it to a file.
 Run the utility by executing the following command:
 ```bash
-python compare_branches.py p10.json sisyphus.json
-
 python compare_branches.py p10.json sisyphus.json --output comparison_result.json
 ```
 
