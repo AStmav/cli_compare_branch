@@ -113,7 +113,7 @@ class BinaryPackageComparator:
 
     def run_comparison(self):
         """
-        Performs a comparison of packages and saves the result to a file or outputs it to the console.
+        Performs a comparison of packages and saves the result to a file or outputs it to the console..
         """
         with ThreadPoolExecutor(max_workers=2) as executor:
             executor.submit(self.get_branch_binary_packages, "p10", self.p10_file)
